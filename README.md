@@ -1,4 +1,4 @@
-# MickeyMouse – Educational Android Remote Administration Tool
+# 🦅 RavenRAT – Educational Android Remote Administration Tool
 
 > **⚠️ LEGAL & ETHICAL WARNING**  
 > This project is **for educational purposes only**. It is designed to teach Android security, network resilience, and stealth techniques.  
