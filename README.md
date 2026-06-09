@@ -56,10 +56,3 @@ This project is ideal for cybersecurity students to learn how RATs operate and h
 
 ---
 
-## 🚀 Setup & Installation
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/RavenRAT.git
-cd RavenRAT
